@@ -32,5 +32,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/newimage:latest
+          image: sankarmuthu/sankarapp:latest
           imagePullPolicy: Always
